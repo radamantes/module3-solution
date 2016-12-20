@@ -1,12 +1,20 @@
 
 .conteudo{
-	background-color: #9A9A9A;
+	background-color:#d3d3d3;
 	position: relative;
 	padding: 0 12px 12px 12px;
 }
 h4{
 	text-align: center;
 	padding-top: 10px;
+	color: black;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+h1{
+	
+	font-weight: bolder;
 }
 
 p{
@@ -20,7 +28,7 @@ ul span{
 	text-align: center;
 }
 ul span:hover{
-	background-color: gray;
+	background-color: #d3d3d3;
 	margin-top: -10px;
 	margin-bottom: -10px;
 	padding-top: 10px;
